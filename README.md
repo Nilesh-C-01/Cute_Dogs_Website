@@ -1,6 +1,6 @@
 # Cute_Dogs_Website 
 Webiste Link :  https://nilesh-c-01.github.io/Cute_Dogs_Website/  
-Created my first ever website by using only pure HTML elements.  
+Created my first ever static website by purely using only HTML elements.  
 
 Main Highlights are :  
 --> A very basic website created by me during my hands-on while learning HTML.   
