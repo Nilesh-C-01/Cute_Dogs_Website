@@ -1,5 +1,5 @@
 # Cute_Dogs_Website 
-Webiste Link :  https://nilesh-c-01.github.io/Cute_Dogs_Website/  
+Website Link :  https://nilesh-c-01.github.io/Cute_Dogs_Website/  
 Created my first ever static website by purely using only HTML elements.  
 
 Main Highlights are :  
